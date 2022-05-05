@@ -1,0 +1,2 @@
+SELECT Hostscan
+  FROM host;
